@@ -1,0 +1,59 @@
+FIREBASES_DONE
+"The Generators have been destroyed, defenses on the island are down!"
+End
+
+WELCOME
+"Welcome to Contra 008's First Co-op map (Compatible with Contra 007)"
+End
+
+OBJECTIVE
+"Work together in each area to re-unite with your friend"
+End
+
+OBJ1
+"Move onto the next area by entering the pump station to drain the dam. Work together!"
+End
+
+DAM_DONE
+"The dam is draining! Continue on to the next area!"
+End
+
+WARN1
+"HINT: These generators power the defenses on the dam."
+End
+
+OBJ2
+"Destroying these generators will put the Eastern USA Base out of power."
+End
+
+HINT2
+"HINT: If you have a Black Lotus, you should capture the generators and Particle Cannon..."
+End
+
+AREA3
+"Eastern USA base is down!"
+End
+
+HINT3
+"HINT: The generators in the East USA base power these defenses"
+End
+
+FAFNIR_WARN
+"WARNING: ENEMIES AHEAD! They are controlled by the Cyber outpost generators to the West."
+End
+
+FAFNIR_DEATH
+"The Robot army is dead, move forward towards the north!"
+End
+
+REPORT
+"You have finished the Contra 008 Co-op Beta 1.2! This was only a preview of what will come."
+End
+
+ANSWER
+"Please report any and all bugs/suggestions on the ModDB comments or PM lilTasman."
+End
+
+POWER_2
+"The power in the Western Cyber base is down! Destroy the base to kill the Cyber blockade to the east!"
+End

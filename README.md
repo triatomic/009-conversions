@@ -1,7 +1,9 @@
 # 009-conversions
 
-These are conversions for Contra 009 Beta 2 mod.
-WIP files are on the [develop](https://github.com/triatomic/009-conversions/tree/develop) (waiting for 009 Final release)
+WIP conversions for Contra 009 Final build.
 
-Download this repository by clicking [here](https://github.com/triatomic/009-conversions/archive/master.zip) or download above.
+Download this repository by clicking [here](https://github.com/triatomic/009-conversions/archive/develop.zip) or download above.
+
 Extract to your ZH maps/data folder in Documents as usual.
+
+"Data" folder goes to Zero Hour directory (Data), not in Documents.
